@@ -1,2 +1,5 @@
 # access key 
 .env
+
+# ignore doc 
+*.doc
